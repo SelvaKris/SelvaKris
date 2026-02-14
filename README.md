@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any open source maintenance related to Software QA tools
 - 📫 How to reach me ai.selkris@gmail.com  
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: taking swimming classes as a middle aged man, it's very tough, hope to swim well by end of this summer
+- ⚡ Fun fact: taking golf classes, it's very tough man ! 
 
 <!---
 SelvaKris/SelvaKris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
